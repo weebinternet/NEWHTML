@@ -23,10 +23,9 @@ height=80%">
 <br>:ADVOCACY PROJECT PAPER:</td></center>
 </tr>
 <tr>
-<td><center><a href="file:///C:/Users/christy/Downloads/math.htm
-"> MATH PT </a></td></center>
-<td><center><a href="file:///C:/Users/christy/Downloads/cae.htm"> CAE PT</a></td></center>
-<td><center><a href="file:///C:/Users/christy/Downloads/cle.htm"> CLE PT</a></td></center>
+<td><center><a href="file:///C:/Users/christy/Downloads/math.html"> MATH PT </a></td></center>
+<td><center><a href="file:///C:/Users/christy/Downloads/cae.html"> CAE PT</a></td></center>
+<td><center><a href="file:///C:/Users/christy/Downloads/cle.html"> CLE PT</a></td></center>
 <p>
 <p>
 <tr>
